@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Djikstra.cpp
+c:\users\jvanj\source\repos\djikstra\djikstra\djikstra.cpp(39): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\djikstra\djikstra\djikstra.cpp(63): warning C4101: 'j': variável local não referenciada
+c:\users\jvanj\source\repos\djikstra\djikstra\djikstra.cpp(107): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\djikstra\djikstra\djikstra.cpp(117): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\djikstra\djikstra\djikstra.cpp(101): warning C4715: 'criaGrafo': nem todos os caminhos de controle retornam um valor
+  Djikstra.vcxproj -> C:\Users\jvanj\source\repos\Djikstra\Debug\Djikstra.exe
